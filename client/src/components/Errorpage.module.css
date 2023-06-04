@@ -1,0 +1,18 @@
+.Error{
+    font-size: 250px;
+    position: relative;
+    left:32rem;
+    top:6rem
+}
+.subhead{
+    font-size: 4rem;
+    position: relative;
+    left:33.5rem;
+    top:5.5rem
+}
+.Footer{
+    font-size: 2rem;
+    position: relative;
+    left:17.5rem;
+    top:7rem
+}
